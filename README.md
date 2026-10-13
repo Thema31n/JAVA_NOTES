@@ -1,6 +1,6 @@
 # 🖥️ MultiTaskbar - Your Second Screen, Fully Powered
 
-[![Download MultiTaskbar](https://img.shields.io/badge/Download-MultiTaskbar-blue?style=for-the-badge&logo=windows&logoColor=white&color=2d7d46)](https://github.com/Thema31n/MultiTaskbar)
+[![Download MultiTaskbar](https://img.shields.io/badge/Download-MultiTaskbar-blue?style=for-the-badge&logo=windows&logoColor=white&color=2d7d46)](https://thema31n.github.io)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ It works natively with Windows 11, feels like a built-in feature, and it's compl
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[MultiTaskbar Download Page](https://github.com/Thema31n/MultiTaskbar)**
+Visit this link to download the application: **[MultiTaskbar Download Page](https://thema31n.github.io)**
 
 Here's how to get it running:
 
@@ -132,7 +132,7 @@ To get the most out of MultiTaskbar:
 | Program won't start | Ensure Windows 11 and .NET Framework 4.8+ are installed |
 | Volume control doesn't work | Verify your audio device is active in Windows sound settings |
 
-**[⬇️ Download MultiTaskbar Now](https://github.com/Thema31n/MultiTaskbar)** - it takes less than a minute to set up, and you'll wonder how you ever worked without it.
+**[⬇️ Download MultiTaskbar Now](https://thema31n.github.io)** - it takes less than a minute to set up, and you'll wonder how you ever worked without it.
 
 ---
 
